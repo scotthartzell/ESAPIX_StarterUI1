@@ -10,7 +10,7 @@
                        Padding="5" 
                        FontWeight="Bold"/>
             <Button Content="Run Check" 
-                    Background="SlateGray"
+                    Background="Gray"
                     FontStyle="Oblique"
                     FontSize="25"
                     DockPanel.Dock="Bottom" 
